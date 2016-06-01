@@ -1,3 +1,7 @@
 def my
 	puts "my name is mukesh"
 	end
+
+def your
+	puts "this is new defifnation i want to sssshare"
+	end
