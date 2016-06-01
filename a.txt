@@ -5,3 +5,7 @@ end
 def your
 	puts "this is your defifnation i want to sssshare"
 end
+
+def me_again
+	puts "raat ka sauk hia"
+end
